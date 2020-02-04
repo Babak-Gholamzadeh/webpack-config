@@ -1,0 +1,24 @@
+.btn-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    border-radius: 10px;
+    width: 200px;
+    height: 300px;
+    img {
+        width: 100px;
+        height: 100px;
+    }
+    button {
+        border: none;
+        outline: none;
+        width: 100px;
+        height: 50px;
+        font-size: 14px;
+        color: #fff;
+        background-color: #0088ff;
+        border-radius: 5px;
+    }
+}
